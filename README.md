@@ -1,4 +1,3 @@
-```markdown
 # Live YouTube Subscriber Count
 
 This is a React web app that displays a live YouTube subscriber count. It fetches data from the YouTube Data API using the channel's username.
@@ -26,8 +25,8 @@ This is a React web app that displays a live YouTube subscriber count. It fetche
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/live-youtube-subscriber-count.git
-   cd live-youtube-subscriber-count
+   git clone https://github.com/VinCoD/youtube-live-sub-count
+   cd youtube-live-sub-count
    ```
 
 2. **Install dependencies:**
