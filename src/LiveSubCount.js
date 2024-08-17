@@ -27,7 +27,7 @@ const LiveSubCount = () => {
         <img 
           src={channelDetails.profilePicture} 
           alt="Channel Thumbnail" 
-          className="w-24 h-24 rounded-full" 
+          className="w-24 h-24 rounded-full border-4 border-white" 
         />
         <h1 className="text-4xl font-semibold">{channelDetails.channelName}</h1>
         <div className="text-7xl font-bold">
