@@ -101,4 +101,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **GitHub**: [VinCoD](https://github.com/vincod)
 - **YouTube**: [KwargDevs](https://youtube.com/@kwargdevs)
 
-```
