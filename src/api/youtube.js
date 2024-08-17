@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY
+const API_KEY = process.env.REACT_APP_YOUTUBE_API
 const CHANNEL_ID = 'UCdMBvHugZtN_FZ6oh8L5BHA';
 
 export const getSubscriberCount = async () => {

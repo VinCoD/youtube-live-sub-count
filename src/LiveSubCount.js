@@ -11,7 +11,7 @@ const LiveSubCount = () => {
 
   useEffect(() => {
     fetchSubCount();
-    const intervalId = setInterval(fetchSubCount, 5000); // Fetch every 5 seconds
+    const intervalId = setInterval(fetchSubCount, 3000); // Fetch every 5 seconds
 
     return () => clearInterval(intervalId); // Clean up on unmount
   }, []);
