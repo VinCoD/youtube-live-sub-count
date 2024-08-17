@@ -1,5 +1,3 @@
-Here's an example of a `README.md` file you can use for your live subscriber count web app project on GitHub:
-
 ```markdown
 # Live YouTube Subscriber Count
 
