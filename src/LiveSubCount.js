@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getChannelDetails } from './api/youtube';
-import { CheckCircleIcon } from '@heroicons/react/20/solid';
+import { ArrowUpRightIcon } from '@heroicons/react/20/solid';
 
 const LiveSubCount = () => {
   const [channelDetails, setChannelDetails] = useState({
