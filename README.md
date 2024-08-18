@@ -16,10 +16,6 @@ This is a React web app that displays a live YouTube subscriber count. It fetche
 ![Live sub count](https://github.com/user-attachments/assets/13d81de9-0a27-408b-87aa-236357573673)
 
 
-## Tutorial
-
-[![Live YouTube Subscriber Count Demo](https://img.youtube.com/vi/NNw9iq1VSnc/0.jpg)](https://youtu.be/NNw9iq1VSnc)
-
 
 
 ## Getting Started
